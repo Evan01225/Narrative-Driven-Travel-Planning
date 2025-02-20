@@ -33,11 +33,11 @@ This repository contains the implementation  of the paper "Narrative-Driven Trav
    pip install -r requirements.txt
 
 3. Configure the settings:
-   Before running the script, you need to configure the API keys and database settings in config.py.
+   Before running the script, you need to configure the API keys and database settings in `config.py.`
 
 4. Run the script:
    ```bash
    python run.py
 
 ### Usage
-To use this repository, simply run the run.py script. This will generate a geoculturally-grounded travel itinerary based on the narrative-driven framework. The final output will be saved as polished_long_script.txt in the root directory of the repository.
+To use this repository, simply run the `run.py` script. This will generate a geoculturally-grounded travel itinerary based on the narrative-driven framework. The final output will be saved as `polished_long_script.txt` in the root directory of the repository.
